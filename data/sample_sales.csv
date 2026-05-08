@@ -1,0 +1,31 @@
+Date,Region,Product,Category,Revenue,Cost,Profit,Units_Sold,Customer_ID
+2024-01-15,North,Widget A,Electronics,$12500,$8750,$3750,250,CUST001
+2024-01-22,South,Widget B,Electronics,$9800,$6860,$2940,196,CUST002
+2024-02-01,East,Gadget X,Home & Garden,$15600,$10920,$4680,312,CUST003
+2024-02-14,West,Widget A,Electronics,$11200,$7840,$3360,224,CUST004
+2024-02-28,North,Gadget Y,Home & Garden,$8900,$6230,$2670,178,CUST005
+2024-03-05,South,Widget C,Clothing,$7500,$5250,$2250,150,CUST006
+2024-03-18,East,Gadget X,Home & Garden,$18200,$12740,$5460,364,CUST007
+2024-03-25,West,Widget B,Electronics,$13400,$9380,$4020,268,CUST008
+2024-04-02,North,Widget A,Electronics,$16800,$11760,$5040,336,CUST009
+2024-04-15,South,Gadget Y,Home & Garden,$10500,$7350,$3150,210,CUST010
+2024-04-22,East,Widget C,Clothing,$6200,$4340,$1860,124,CUST011
+2024-05-01,West,Gadget X,Home & Garden,$21000,$14700,$6300,420,CUST012
+2024-05-10,North,Widget B,Electronics,$14200,$9940,$4260,284,CUST013
+2024-05-20,South,Widget A,Electronics,$11800,$8260,$3540,236,CUST014
+2024-06-01,East,Gadget Y,Home & Garden,$9600,$6720,$2880,192,CUST015
+2024-06-15,West,Widget C,Clothing,$8100,$5670,$2430,162,CUST016
+2024-06-25,North,Gadget X,Home & Garden,$19500,$13650,$5850,390,CUST017
+2024-07-05,South,Widget A,Electronics,$13900,$9730,$4170,278,CUST018
+2024-07-18,East,Widget B,Electronics,$10200,$7140,$3060,204,CUST019
+2024-07-28,West,Gadget Y,Home & Garden,$12300,$8610,$3690,246,CUST020
+2024-08-08,North,Widget C,Clothing,$9400,$6580,$2820,188,CUST021
+2024-08-20,South,Gadget X,Home & Garden,$17800,$12460,$5340,356,CUST022
+2024-09-01,East,Widget A,Electronics,$15100,$10570,$4530,302,CUST023
+2024-09-15,West,Widget B,Electronics,$11600,$8120,$3480,232,CUST024
+2024-09-28,North,Gadget Y,Home & Garden,$8700,$6090,$2610,174,CUST025
+2024-10-05,South,Widget C,Clothing,$7800,$5460,$2340,156,CUST026
+2024-10-20,East,Gadget X,Home & Garden,$22500,$15750,$6750,450,CUST027
+2024-11-01,West,Widget A,Electronics,$14600,$10220,$4380,292,CUST028
+2024-11-15,North,Widget B,Electronics,$12800,$8960,$3840,256,CUST029
+2024-12-01,South,Gadget Y,Home & Garden,$11100,$7770,$3330,222,CUST030
