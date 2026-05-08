@@ -30,7 +30,7 @@ if uploaded_file:
 
     st.sidebar.success(f"Saved to: {file_path}")
 
-    # Load into dataframe
+    # Load file into session state
     if uploaded_file.name.endswith(".csv"):
         df = pd.read_csv(file_path)
     else:
